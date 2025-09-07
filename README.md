@@ -36,11 +36,12 @@ Place the folder in your resources directory.
 
 Add the following to your server.cfg:
 
+```
 ensure qb-core
 ensure ox_lib
 ensure ox_target
 ensure qb-travel
-
+```
 
 Start/restart your server.
 
