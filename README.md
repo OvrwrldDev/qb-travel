@@ -92,3 +92,5 @@ The player will fade out, and then appear at the chosen location.
 Downtown Vinewood was the first one I added whilst making this to make sure it worked before doing Sandy or Paleto and will not be present upon download (as is obvious with the code snippets above!
 
 You can adjust travel time by changing the Wait(3000) duration in client.lua.
+
+Join my [Discord](https://discord.gg/NhhBaGXUX8) for updates on projects, scripts, or early access/previews!
